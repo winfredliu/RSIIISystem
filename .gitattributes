@@ -1,0 +1,7 @@
+code/RSIIISystem/model/exportedModel/changeDetection/model.pdiparams filter=lfs diff=lfs merge=lfs -text
+code/RSIIISystem/model/exportedModel/groundObjectsClassification/model.pdiparams filter=lfs diff=lfs merge=lfs -text
+code/RSIIISystem/model/exportedModel/objectDetection/aircraft/model.pdiparams filter=lfs diff=lfs merge=lfs -text
+code/RSIIISystem/model/exportedModel/objectDetection/oiltank/model.pdiparams filter=lfs diff=lfs merge=lfs -text
+code/RSIIISystem/model/exportedModel/objectDetection/overpass/model.pdiparams filter=lfs diff=lfs merge=lfs -text
+code/RSIIISystem/model/exportedModel/objectDetection/playground/model.pdiparams filter=lfs diff=lfs merge=lfs -text
+code/RSIIISystem/model/exportedModel/targetExtraction/overpass/model.pdiparams filter=lfs diff=lfs merge=lfs -text
