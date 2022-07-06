@@ -1,6 +1,5 @@
 #lgl
 model/bestModel/
-model/exportedModel/
 model/warmData
 modelTrain/data
 modelTrain/exp
