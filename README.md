@@ -36,3 +36,14 @@ code
   - 02-概要设计文档.docx
   - 03-详细设计文档.docx
   - 项目演示.pptx
+
+## 算法模型说明
+
+### 下载地址
+
+- 链接   https://pan.baidu.com/s/1AyDHxhUw1bpGOTuHa4gReA 
+- 提取码 h12r
+
+### 使用说明
+
+将下载内容放到 ./code/RSIIISystem/model(命名为model)
